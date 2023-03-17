@@ -1,0 +1,21 @@
+---
+name: New Bug
+about: Template for creating an issue for a bug
+title: 'Fix Bug'
+labels: ''
+assignees: ''
+---
+<!--- Double-click underscored lines or words to replace --->
+## Description
+**Summary:** ___
+**Expectation:** ___
+**Source URL:** ___
+**Steps to Reproduce:** ___
+<details>
+<summary>Image</summary>
+
+<!-- Insert Image Here -->
+</details>
+
+#### Additional Info:
+- __
